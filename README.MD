@@ -3,8 +3,8 @@
 A modern web-based chat interface for interacting with Ollama AI models using Django Framework.
 
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://python.org)
-[![Django Version](https://img.shields.io/badge/django-5.0-green.svg)](https://djangoproject.com)
-[![Ollama](https://img.shields.io/badge/ollama-latest-orange.svg)](https://ollama.com)
+[![Django Version](https://img.shields.io/badge/django-6.0-green.svg)](https://djangoproject.com)
+[![Ollama](https://img.shields.io/badge/ollama-qwen2.5-coder:7b.svg)](https://ollama.com)
 [![License](https://img.shields.io/badge/license-MIT-red.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
