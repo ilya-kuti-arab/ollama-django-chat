@@ -36,10 +36,11 @@ A modern web-based chat interface for interacting with Ollama AI models using Dj
 - 🎭 **Multiple Model Support** - Compatible with all Ollama models (Llama2, Mistral, CodeLlama, etc.)
 - 🔒 **Local Processing** - All data stays on your machine, no cloud dependency
 
-## 🎥 Demo
+## 📸 Screenshots
 
-![Chat Interface Demo](https://via.placeholder.com/800x400?text=Chat+Interface+Screenshot)
-*Screenshot of the chat interface*
+| Desktop View | Mobile View |
+|--------------|-------------|
+| ![Desktop](screenshots/desktop.png) | ![Mobile](screenshots/mobile.png) |
 
 ## 📋 Prerequisites
 
@@ -50,13 +51,6 @@ Before you begin, ensure you have the following installed:
 - **Ollama** (latest version)
 - **Git** (optional, for cloning)
 - **pip** (Python package manager)
-
-## 📸 Screenshots
-
-| Desktop View | Mobile View |
-|--------------|-------------|
-| ![Desktop](screenshots/desktop.png) | ![Mobile](screenshots/mobile.png) |
-
 
 ## 🚀 Installation
 
