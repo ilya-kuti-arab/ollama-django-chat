@@ -47,8 +47,8 @@ A modern web-based chat interface for interacting with Ollama AI models using Dj
 Before you begin, ensure you have the following installed:
 
 - **Python** 3.8 or higher
-- **Django** 5.0 or higher
-- **Ollama** (latest version)
+- **Django** 6 or higher
+- **Ollama** (qwen2.5-coder:7b)
 - **Git** (optional, for cloning)
 - **pip** (Python package manager)
 
