@@ -40,7 +40,7 @@ A modern web-based chat interface for interacting with Ollama AI models using Dj
 
 | Desktop View | Mobile View |
 |--------------|-------------|
-| ![Desktop](screenshots/desktop.png) | ![Mobile](screenshots/mobile.png) |
+| ![Desktop](screenshot/desktop.png) | ![Mobile](screenshot/mobile.png) |
 
 ## 📋 Prerequisites
 
